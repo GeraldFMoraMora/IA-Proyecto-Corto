@@ -1,30 +1,50 @@
-# Inteligencia Artificial 
-## Proyecto Corto 1
+Primer Proyecto Corto Inteligencia Artificial
+El primer proyecto corto busca introducir a los estudiantes a la técnica de optimización llamada Stochastic Gradient Descent. Para ello se solicita crear un cuaderno (notebook) en Python utilizando la plataforma Jupyter. Se utiliza dos polinomios diferentes donde se mostrará la evolución de la estimación de mínimos y máximos realizada en cada paso del algoritmo utilizando matplotlib.
 
+Requisitos del sistema (Hardware & Software)
+Procesador Core i5 2400 (recomendado) o superior.
+Memoria RAM 1.5GB o superior.
+Espacio de almacenamiento 200MB.
+Python 3.6.
+Sistema operativo: Linux.
+Anaconda para Python 3.6
+Jupyter.
+Matplotlib.
+NumPy.
+Instalación de componentes
+Python
+El lenguaje de programación utilizado para este proyecto es Python en su versión 3.6, el cual se puede obtener directamente desde la pagina Python.org o desde el terminal en linux con el comando sudo apt install python3.6.
 
-### Instalación de componentes
+Anaconda
+Está orientado a simplificar el despliegue y administración de los paquetes de software.
 
-#### Python
+Instalación desde terminal en Linux
+Paso 1: $ cd /tmp
+Paso 2: $ curl -O https://repo.anaconda.com/archive/Anaconda3-5.1.0-Linux-x86_64.sh
+Paso 3: $ sha256sum Anaconda3-5.1.0-Linux-x86_64.sh
+Paso 4: bash Anaconda3-5.1.0-Linux-x86_64.sh
+Nota: Para usuarios de Windows pueden descargarlo directamente desde la pagina anaconda.org.
 
-#### Anaconda
+Jupyter
+Instalación de Jupyter utilizando Anaconda
+Paso 1: Tener instalado Anaconda según las instrucciones anteriores.
+Paso 2: Ejecutar: $ jupyter notebook
+NumPy
+Instalación simple
+Dirigirse a la pagina scipy.org y descargar el ejecutable de la versión mas reciente de la librería.
 
-#### Jupyter
-
-
-### Referencias Bibliográficas 
-<!---[FALTA CITAR, HASTA QUE ESTÉN TODOS LOS ENLACES]
-
--->
-
-
+Instalación por terminal
+Paso 1: sudo apt-get install python-pip
+Paso 2: sudo pip install numpy scipy
+Matplotlib
+Instalación
+Paso 1: python -mpip install -U pip
+Paso 2: python -mpip install -U matplotlib
+Referencias Bibliográficas
 https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
-
 
 http://jupyter.org/install
 
-
 https://realpython.com/installing-python/
 
-
-https://www.youtube.com/watch?v=HW29067qVWk
-
+https://www.youtube.com/watch?v=HW29067qVWk https://matplotlib.org/
