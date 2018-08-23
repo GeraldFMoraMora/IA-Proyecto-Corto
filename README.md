@@ -48,14 +48,15 @@ Dirigirse a la pagina [scipy.org](https://www.scipy.org/scipylib/download.html) 
 ##### Paso 2: ``python -mpip install -U matplotlib``
 ## Referencias Bibliográficas
 
-[https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04]
-(https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04]
 
-[http://jupyter.org/install](http://jupyter.org/install]
+(2018). Retrieved from http://jupyter.org/install](http://jupyter.org/install
 
-[https://realpython.com/installing-python/](https://realpython.com/installing-python/]
+(2018). Retrieved from https://realpython.com/installing-python/](https://realpython.com/installing-python/
 
-[https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk]
+ (2018). Retrieved from https://matplotlib.org/](https://matplotlib.org/users/installing.html
 
-[https://matplotlib.org/](https://matplotlib.org/users/installing.html]
+Installing Data Science Package Manager Anaconda on an Ubuntu 18. | DigitalOcean. (2018). Retrieved from https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
+
+Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough. (2018). Retrieved from https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk
+
 
