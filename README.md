@@ -47,3 +47,4 @@ Dirigirse a la pagina [scipy.org](https://www.scipy.org/scipylib/download.html) 
 
 [https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk)
 [https://matplotlib.org/](https://matplotlib.org/users/installing.html)
+[https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/]
