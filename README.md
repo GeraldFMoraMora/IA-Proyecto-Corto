@@ -1,4 +1,4 @@
-# Primer Proyecto Corto Inteligencia Artificial
+# Primer Proyecto Corto 1 Inteligencia Artificial
 Enlace de GitHub: https://github.com/GeraldFMoraMora/IA-Proyecto-Corto
 
 El primer proyecto corto busca introducir a los estudiantes a la técnica de optimización llamada Stochastic Gradient Descent. Para ello se solicita crear un cuaderno (notebook) en Python utilizando la plataforma Jupyter. Se utiliza   dos   polinomios   diferentes   donde   se   mostrará   la   evolución   de   la   estimación   de   mínimos   y   máximos   realizada   en   cada   paso   del   algoritmo utilizando matplotlib.
@@ -51,10 +51,4 @@ Dirigirse a la pagina [scipy.org](https://www.scipy.org/scipylib/download.html) 
 [https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk]
 
 [https://matplotlib.org/](https://matplotlib.org/users/installing.html]
-[https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/]
-
-[https://www.aprenderpython.net/descenso-gradientes-estocastico-sgd/]
-
-
-
 
