@@ -2,7 +2,7 @@
 # Proyecto Corto 1
 Enlace de GitHub: https://github.com/GeraldFMoraMora/IA-Proyecto-Corto
 
-Integrantes:
+### Integrantes:
 
  - Brayan Fajardo Alvarado
  - Fabricio Castillo Alvarado
