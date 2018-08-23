@@ -39,11 +39,20 @@ Dirigirse a la pagina [scipy.org](https://www.scipy.org/scipylib/download.html) 
 ##### Paso 2: ``python -mpip install -U matplotlib``
 ## Referencias Bibliográficas
 
-[https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04)
+[https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04]
+(https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04]
 
-[http://jupyter.org/install](http://jupyter.org/install)
+[http://jupyter.org/install](http://jupyter.org/install]
 
-[https://realpython.com/installing-python/](https://realpython.com/installing-python/)
+[https://realpython.com/installing-python/](https://realpython.com/installing-python/]
 
-[https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk)
-[https://matplotlib.org/](https://matplotlib.org/users/installing.html)
+[https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk]
+
+[https://matplotlib.org/](https://matplotlib.org/users/installing.html]
+[https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/]
+
+[https://www.aprenderpython.net/descenso-gradientes-estocastico-sgd/]
+
+
+
+
