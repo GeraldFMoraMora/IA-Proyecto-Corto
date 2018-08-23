@@ -1,4 +1,5 @@
-# Primer Proyecto Corto 1 Inteligencia Artificial
+# Inteligencia Artificial
+# Proyecto Corto 1
 Enlace de GitHub: https://github.com/GeraldFMoraMora/IA-Proyecto-Corto
 
 Integrantes:
