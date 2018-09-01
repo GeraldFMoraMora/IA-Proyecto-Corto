@@ -1,4 +1,13 @@
-# Primer Proyecto Corto Inteligencia Artificial
+# Inteligencia Artificial
+# Proyecto Corto 1
+Enlace de GitHub: https://github.com/GeraldFMoraMora/IA-Proyecto-Corto
+
+### Integrantes:
+
+ - Brayan Fajardo Alvarado
+ - Fabricio Castillo Alvarado
+ - Gerald Mora Mora
+
 El primer proyecto corto busca introducir a los estudiantes a la técnica de optimización llamada Stochastic Gradient Descent. Para ello se solicita crear un cuaderno (notebook) en Python utilizando la plataforma Jupyter. Se utiliza   dos   polinomios   diferentes   donde   se   mostrará   la   evolución   de   la   estimación   de   mínimos   y   máximos   realizada   en   cada   paso   del   algoritmo utilizando matplotlib.
 ## Requisitos del sistema (Hardware & Software)
 - Procesador Core i5 2400 (recomendado) o superior.
@@ -39,12 +48,13 @@ Dirigirse a la pagina [scipy.org](https://www.scipy.org/scipylib/download.html) 
 ##### Paso 2: ``python -mpip install -U matplotlib``
 ## Referencias Bibliográficas
 
-[https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04)
 
-[http://jupyter.org/install](http://jupyter.org/install)
+(2018). Retrieved from http://jupyter.org/install](http://jupyter.org/install
 
-[https://realpython.com/installing-python/](https://realpython.com/installing-python/)
+(2018). Retrieved from https://realpython.com/installing-python/](https://realpython.com/installing-python/
 
-[https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk)
-[https://matplotlib.org/](https://matplotlib.org/users/installing.html)
-[https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/]
+ (2018). Retrieved from https://matplotlib.org/](https://matplotlib.org/users/installing.html
+
+Installing Data Science Package Manager Anaconda on an Ubuntu 18. | DigitalOcean. (2018). Retrieved from https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
+
+Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough. (2018). Retrieved from https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk
