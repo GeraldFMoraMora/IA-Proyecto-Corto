@@ -60,3 +60,9 @@ Installing Data Science Package Manager Anaconda on an Ubuntu 18. | DigitalOcean
 Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough. (2018). Retrieved from https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk
 
 
+<<<<<<< HEAD
+=======
+[https://www.youtube.com/watch?v=HW29067qVWk](https://www.youtube.com/watch?v=HW29067qVWk)
+[https://matplotlib.org/](https://matplotlib.org/users/installing.html)
+[https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/]
+>>>>>>> brayan
